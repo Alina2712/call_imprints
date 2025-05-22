@@ -1,5 +1,5 @@
 {
-  "name": "srl-memory-gateway",
+  "name": "call-imprints",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -7,7 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "node-fetch": "^2.6.7"
+    "@supabase/supabase-js": "^2.39.3"
   }
 }
